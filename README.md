@@ -7,7 +7,9 @@
 
 **서강대학교** 컴퓨터공학과 (2024.03 – 재학 중)  
 **CNU 학회** (2025 summer ~ )
-
+Spring 입문 스터디 (2025 summer)
+Spring 핵심 스터디 (2025 fall)
+Spring fastapi 연동 스터디 (2025 winter)
 ---
 
 ## 🛠 기술 스택
