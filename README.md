@@ -36,7 +36,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | [학사·장학금 공지 추천](https://github.com/BoonPick/back-end) | GitHub Actions + Jenkins + SonarQube 기반 CI/CD 파이프라인 구축, 공지 크롤링 및 추천 서비스 | Python, FastAPI, Docker, Jenkins |
-| [수강신청 추천](https://github.com/Hyseok176/saint_major_recommender) | LLM + 벡터 임베딩 기반 수업 추천, 모델 양자화, 백엔드 | Python, FastAPI, LLM |
+| [수강신청 추천](https://github.com/Hyseok176/saint_major_recommender) | LLM + 벡터 임베딩 기반 수업 추천, 모델 양자화, 백엔드 | Python, FastAPI, Spring boot, java |
 
 ---
 
