@@ -48,7 +48,12 @@ Spring fastapi 연동 스터디 (2025 winter)
 
 ## 📊 GitHub Stats
 
-[![ychanyoung's GitHub stats](https://github-readme-stats-three-beige-31.vercel.app/api?username=ychanyoung&show_icons=true&theme=default&hide_border=true)](https://github.com/ychanyoung)
+<p align="center">
+  <img src="https://github-readme-stats-three-beige-31.vercel.app/api?username=ychanyoung&show_icons=true&theme=default&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ychanyoung&theme=default&hide_border=true" />
+</p>
 
 ### 알고리즘
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooncy0511)](https://solved.ac/profile/yooncy0511)
