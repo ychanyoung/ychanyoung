@@ -3,7 +3,7 @@
 
 ---
 
-## 🏫 학력
+## 학력
 
 **서강대학교** 컴퓨터공학과 (2024.03 – 재학 중)  
 **CNU 학회** (2025 summer ~ )
@@ -16,7 +16,7 @@ Spring fastapi 연동 스터디 (2025 winter)
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 **Language**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -37,7 +37,7 @@ Spring fastapi 연동 스터디 (2025 winter)
 
 ---
 
-## 📌 주요 프로젝트
+## 주요 프로젝트
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
@@ -46,7 +46,7 @@ Spring fastapi 연동 스터디 (2025 winter)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-three-beige-31.vercel.app/api?username=ychanyoung&show_icons=true&theme=default&hide_border=true" />
