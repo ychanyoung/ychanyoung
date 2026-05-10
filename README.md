@@ -43,7 +43,7 @@ Spring fastapi 연동 스터디 (2025 winter)
 |---------|------|------|
 | [학사·장학금 공지 추천](https://github.com/BoonPick/back-end) | GitHub Actions + Jenkins + SonarQube 기반 CI/CD 파이프라인 구축, 공지 크롤링 및 추천 서비스 | Python, FastAPI, Docker, Jenkins |
 | [수강신청 추천](https://github.com/Hyseok176/saint_major_recommender) | LLM + 벡터 임베딩 기반 수업 추천, 모델 양자화, 백엔드 | Python, FastAPI, Spring boot, java |
-| [ROI 고객 이탈 예측 SaaS](https://github.com/ychanyoung/Capstone-Design-1) | 피처엔지니어링, XGBoost ML, 고객 CLV 예측, 코호트분석 |
+| [ROI 고객 이탈 예측 SaaS](https://github.com/ychanyoung/Capstone-Design-1) | 피처엔지니어링, XGBoost ML, 고객 CLV 예측, 코호트분석 | Python, XGBoost, LightGBM |
 ---
 
 ## GitHub Stats
